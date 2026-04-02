@@ -1,5 +1,11 @@
 # Topic Deep-Dive: Understanding Social Justice
 
+> **This is a demonstration app, not a reference work.** It exists to show patterns for building self-contained, content-rich learning applications with React. The social justice content included here was assembled by Claude Opus 4.6 (an AI language model) as sample material to populate the framework. **Do not treat it as a vetted or authoritative source on social justice.** The intended use is as a starting point you can adapt with content that you curate, review, and take responsibility for.
+>
+> This project is released under [CC0 1.0 Universal](LICENSE) — dedicated to the public domain. You are free to copy, modify, distribute, and use it for any purpose, commercial or otherwise, without permission or attribution. It is provided as-is, without warranty of any kind. The authors and contributors accept no liability for the accuracy of the content, the fitness of the software for any purpose, or any consequences of its use. See the [LICENSE](LICENSE) file for the full legal text.
+
+---
+
 A self-contained, interactive learning app built with React + Vite + Tailwind CSS. All content is pre-authored and ships with the app — no backend, no API keys, no inference costs. Clone it, run it, learn from it, rebuild it.
 
 ## What This Is
