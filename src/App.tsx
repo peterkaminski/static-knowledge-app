@@ -195,6 +195,18 @@ export default function App() {
             Built with React + Vite + Tailwind CSS. No backend. No API keys. All
             content is pre-authored and ships with the app.
           </p>
+          <p className="mt-1">
+
+              Public domain (CC0) &middot;{" "}
+            <a
+              href="https://github.com/peterkaminski/static-knowledge-app"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-indigo-500 hover:text-indigo-700 transition-colors"
+            >
+              Source code on GitHub
+            </a>
+          </p>
         </div>
       </footer>
     </div>
