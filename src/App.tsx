@@ -188,8 +188,7 @@ export default function App() {
       <footer className="border-t border-slate-200 bg-white mt-12">
         <div className="max-w-6xl mx-auto px-4 py-6 text-center text-xs text-slate-400">
           <p>
-            {moduleData.meta.title} &middot; {moduleData.meta.license} &middot;
-            Version {moduleData.meta.version}
+            {moduleData.meta.title} &middot; Version {moduleData.meta.version}
           </p>
           <p className="mt-1">
             Built with React + Vite + Tailwind CSS. No backend. No API keys. All
