@@ -1,6 +1,6 @@
 # How This Project Was Built
 
-This project was built in a single session using [Claude Code](https://claude.ai/claude-code) with Claude Opus 4.6. The app itself — content, components, types, and styling — was generated in one shot. The iteration that followed was entirely about packaging for open-source release: adding the license, writing documentation, cleaning up inconsistencies, and removing unnecessary files.
+This project was built in a single session using [Claude Code](https://claude.com/product/claude-code) with Claude Opus 4.6. The app itself — content, components, types, and styling — was generated in one shot. The iteration that followed was entirely about packaging for open-source release: adding the license, writing documentation, cleaning up inconsistencies, and removing unnecessary files.
 
 No code was written by hand. No files were manually edited. Every change was made through conversational prompts in Claude Code.
 
