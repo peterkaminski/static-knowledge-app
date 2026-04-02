@@ -201,3 +201,12 @@ You can use any LLM (Claude, GPT, etc.) to draft content, then review and edit i
 6. The AI authoring step is optional. You can write everything by hand.
 
 The key principle: **the authoring pipeline is a convenience, not a dependency.** Someone with no API key can create a module by writing the TypeScript file directly.
+
+## Code Guidelines
+
+If you're modifying the app itself (not just the content):
+
+- TypeScript throughout — no `any` types
+- Components should be simple and focused
+- All content comes from `src/content/` — components should not contain hardcoded text
+- Run `npx tsc --noEmit` before committing to catch type errors

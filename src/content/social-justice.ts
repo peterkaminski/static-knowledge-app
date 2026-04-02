@@ -8,7 +8,7 @@ const module: Module = {
       "A comprehensive exploration of social justice — its philosophical roots, key movements, systemic dimensions, and paths to action. Designed for learners who want to move beyond surface-level awareness toward informed engagement.",
     audience: ["high school", "undergrad", "general public"],
     author: "Open Source Contributors",
-    license: "CC BY-SA 4.0",
+    license: "CC0 1.0 Universal",
     version: "1.0.0",
   },
 
